@@ -1,0 +1,26 @@
+{
+  "name": "fastify-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duysmile/fastify-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duysmile/fastify-example/issues"
+  },
+  "homepage": "https://github.com/duysmile/fastify-example#readme",
+  "dependencies": {
+    "@types/node": "^14.14.22",
+    "fastify": "^3.10.1",
+    "fastify-plugin": "^3.0.0",
+    "mongoose": "^5.11.12"
+  }
+}
